@@ -1,0 +1,10 @@
+.DS_Store
+bin
+jar/audio
+log0.txt
+log0.log
+.classpath
+.project
+.settings
+host_address.txt
+changelog.txt
