@@ -89,6 +89,6 @@ If you are tired, exit the game by
 <command> exit
 ```
 
-The game doesn't come along ith music and sound. The folder `audio` is just a place holder. You can add your own ones to it.
+The game doesn't come along ith music and sound. The folder `audio` is just a place holder. Replace the `.wav/.mid` files with real ones but follow the same audio format. Put `audio/` foler and `.jar` in the same folder, and it'll work.
 
 Have Fun ~!
